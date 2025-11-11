@@ -1,5 +1,3 @@
-[file name]: anticrash.lua
-[file content begin]
 --[[
     SISTEMA DE BYPASS ANTICHEAT OTIMIZADO V2.0
     Proteções completas com bypass de fly e noclip
@@ -489,4 +487,3 @@ task.spawn(function()
 end)
 
 return InitializeBypassSystem()
-[file content end]
