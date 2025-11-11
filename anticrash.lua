@@ -1,5 +1,3 @@
-[file name]: anticrash.txt
-[file content begin]
 --[[
     OPTIMIZED ANTICHEAT BYPASS SYSTEM V2.0
     Complete protections with fly and noclip bypass
@@ -499,4 +497,3 @@ task.spawn(function()
 end)
 
 return InitializeBypassSystem()
-[file content end]
